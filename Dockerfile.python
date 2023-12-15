@@ -12,10 +12,10 @@ CMD ["/bin/bash"]
 
 # COMMANDE
 
-#docker build -t secret_generation_protocol -f Dockerfile.python .
+#docker build -t secret_generation_with_cryptographic_puzzles -f Dockerfile.python .
 
-#docker run -it secret_generation_protocol
+#docker run -it secret_generation_with_cryptographic_puzzles
 
-#python rsa.py
+#python main.py
 
 
