@@ -70,7 +70,7 @@ ment du type AES ou un HMAC se basant sur cette clé).
 
 .
 
-Travail à remettre Vous devez implémenter le protocole d’implémenta-
+Travail à remettre : Vous devez implémenter le protocole d’implémenta-
 tion décrit ci-dessus sous la forme d’une classe User_puzzle contenant les
 
 fonctionnalités nécessaires pour simuler un utilisateur (en Java ou dans le
